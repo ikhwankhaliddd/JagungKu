@@ -1,0 +1,9 @@
+.idea/
+datasets/
+flutter-app/
+klasifikasi_penyakit_jagung/
+mobile-app/
+saved_model/
+Model.h5
+*.zip
+api/model.h5
